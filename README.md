@@ -19,12 +19,12 @@ So, what kind of database application can increase Indonesian public interest in
 [Coming Soon]()
 
 # Product Capstone Team
-| No | Name | Role | Github |
+| No | Name | Role | Github | Univeristy |
 | --- | --- | --- | --- |
-| 1 | Basthian Arisna | ML | []() |
-| 2 | Muhammad Rifaldi Dwimahendra | ML | []() |
-| 3 | Nur Riska Salsabila – Universitas Tadulako | ML | []() |
-| 4 | I Putu Andi Wiratama Putra | CC | [putuandi](https://github.com/putuandi) |
-| 5 | Kartika Ayu Larasati `Project Manager` | CC | [karlrst](https://github.com/karlrst) |
-| 6 | Adika Dwi Saputra | MD | [AdikaDS](https://github.com/AdikaDS) |
-| 7 | Rafida Zahra Mahirani H | MD | [rafidazahramahiranih](https://github.com/rafidazahramahiranih) |
+| 1 | Basthian Arisna | ML | []() | Universitas Tadulako |
+| 2 | Muhammad Rifaldi Dwimahendra | ML | []() | Universitas Tadulako |
+| 3 | Nur Riska Salsabila | ML | []() | Universitas Tadulako |
+| 4 | I Putu Andi Wiratama Putra | CC | [putuandi](https://github.com/putuandi) | Universitas Udayana |
+| 5 | Kartika Ayu Larasati `Project Manager` | CC | [karlrst](https://github.com/karlrst) | Universitas Udayana |
+| 6 | Adika Dwi Saputra | MD | [AdikaDS](https://github.com/AdikaDS) | Universitas Gadjah Mada |
+| 7 | Rafida Zahra Mahirani H | MD | [rafidazahramahiranih](https://github.com/rafidazahramahiranih) | Universitas Muhammadiyah Sukabumi |

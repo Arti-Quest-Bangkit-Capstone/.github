@@ -1,6 +1,6 @@
 # ArtiQuest
 <div align="center">
-  <img src="https://github.com/Arti-Quest-Bangkit-Capstone/ArtiQuest/assets/88192847/e28cb47b-f42d-4f95-b770-8dcd127059f5" alt="Banner ArtiQuest">
+  <img src="https://github.com/Arti-Quest-Bangkit-Capstone/.github/assets/88192847/c145b3ee-040e-4fa5-9f36-bf12553f3657" alt="Banner ArtiQuest">
 </div>
 
 

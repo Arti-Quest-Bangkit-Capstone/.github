@@ -25,9 +25,9 @@ So, what kind of database application can increase Indonesian public interest in
 [Coming Soon]()
 
 # Product Capstone Team
-| No | Name | Role | Github | Univeristy |
+| No | Name | Role | Github | University |
 | --- | --- | --- | --- | --- |
-| 1 | Basthian Arisna | ML | []() | Universitas Tadulako |
+| 1 | Basthian Arisna | ML | [bastianarisna](https://github.com/losthope14) | Universitas Tadulako |
 | 2 | Muhammad Rifaldi Dwimahendra | ML | []() | Universitas Tadulako |
 | 3 | Nur Riska Salsabila | ML | []() | Universitas Tadulako |
 | 4 | I Putu Andi Wiratama Putra | CC | [putuandi](https://github.com/putuandi) | Universitas Udayana |

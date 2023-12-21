@@ -1,8 +1,7 @@
 # ArtiQuest
 <div align="center">
   <img src="https://github.com/Arti-Quest-Bangkit-Capstone/.github/assets/88192847/c145b3ee-040e-4fa5-9f36-bf12553f3657" alt="Banner ArtiQuest">
-</div>
-
+</div><p></p>
 
 
 According to the Badan Pusat Statistik in 2021, 9 out of 10 individuals aged 5 years and older in Indonesia have never visited historical sites or cultural heritage places. This indicates that the interest of the Indonesian public in visiting museums and cultural heritage sites is still low. There are still other threats to museums and cultural heritage, one of which is the damage to historical objects due to fires and natural disasters (BBC, 2023). Objects in museums are vulnerable to physical damage or loss, necessitating digitization to enable the storage of an accurate digital database of artifacts, sites, and historical objects.

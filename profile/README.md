@@ -21,7 +21,7 @@ So, what kind of database application can increase Indonesian public interest in
 * Text to Speech
 
 # Demo
-[Click Here to Download this App](https://github.com/Arti-Quest-Bangkit-Capstone/ArtiQuest-Mobile-Development/tree/Aplication/Aplikasi)
+[Click Here to Download this App](https://github.com/Arti-Quest-Bangkit-Capstone/ArtiQuest-Mobile-Development/releases/tag/v.0.1)
 
 # Product Capstone Team
 | No | Name | Role | Github | University |

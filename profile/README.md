@@ -28,7 +28,7 @@ So, what kind of database application can increase Indonesian public interest in
 | --- | --- | --- | --- | --- |
 | 1 | Basthian Arisna | ML | [bastianarisna](https://github.com/losthope14) | Universitas Tadulako |
 | 2 | Muhammad Rifaldi Dwimahendra | ML | [RifaldiDwimahendra049](https://github.com/RifaldiDwimahendra049) | Universitas Tadulako |
-| 3 | Nur Riska Salsabila | ML | []() | Universitas Tadulako |
+| 3 | Nur Riska Salsabila | ML | [nurriska](https://github.com/nurriska) | Universitas Tadulako |
 | 4 | I Putu Andi Wiratama Putra | CC | [putuandi](https://github.com/putuandi) | Universitas Udayana |
 | 5 | Kartika Ayu Larasati `Project Manager` | CC | [karlrst](https://github.com/karlrst) | Universitas Udayana |
 | 6 | Adika Dwi Saputra | MD | [AdikaDS](https://github.com/AdikaDS) | Universitas Gadjah Mada |
